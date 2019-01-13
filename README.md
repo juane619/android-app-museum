@@ -1,7 +1,7 @@
 # android-app-museum
 Android app about biodiversity museum
 
-Pretty interface.
+Pretty interface.  
 Easy touching interaction and *voice interaction*.
 Use of DialogFlow API. 
 Use of lib to manage QR codes.
